@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin: 5rem 0 2rem;
+}
+
+input {
+  border: 1px solid pink;
+  border-radius: 5rem;
+  padding: 0.6rem;
+  width: 17rem;
+}
+
+button {
+  border: none;
+  background-color: pink;
+  margin-left: 1rem;
+  padding: 0.7rem 1.5rem;
+  border-radius: 5rem;
+  cursor: pointer;
+}
+
+p {
+  margin: 0.7rem;
+}
